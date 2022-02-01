@@ -1,5 +1,4 @@
-
-|### Hi there 👋
+### Hi there 👋
 
 I'm Unreal Engine Developer, passionate about animation and procedural solutions for problems in this area.
 
@@ -22,5 +21,4 @@ I'm Unreal Engine Developer, passionate about animation and procedural solutions
 |Procedural Recoil Animation System|Commercial project: code plugin for Unreal Engine|Programmer|[Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/product/76194998d28247018bee7be203f6c948)|
 |Unannounced FPS project|True first person shooter|Animation Programmer|NDA|
 |Phase blending for stop animations|Research project|-|[Article](https://github.com/guip97/phase-blending)|
-|Cactus|Team project, developed for Android OS|Unreal Engine Developer|(WerFEST Software)[https://github.com/werfestsoftware]|
-
+|Cactus|Team project, developed for Android OS|Unreal Engine Developer|[WerFEST Software](https://github.com/werfestsoftware)|
