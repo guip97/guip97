@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 🤙
 
 I'm Unreal Engine Developer, passionate about animation and procedural solutions for problems in this area.
 
