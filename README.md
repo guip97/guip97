@@ -19,6 +19,6 @@ I'm Unreal Engine Developer, passionate about animation and procedural solutions
 |Title|Description|Role|Links|
 |:---:|:---:|:---:|:---:|
 |Procedural Recoil Animation System|Commercial project: code plugin for Unreal Engine|Programmer|[Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/product/76194998d28247018bee7be203f6c948)|
-|Unannounced FPS project|True first person shooter|Animation Programmer|NDA|
+|Unannounced FPS project|True first person shooter|Animation Programmer|[Video showcase](https://www.youtube.com/watch?v=uqtEk_FP5yg&ab_channel=neverGonna)|
 |Phase blending for stop animations|Research project|-|[Article](https://github.com/guip97/phase-blending)|
 |Cactus|Team project, developed for Android OS|Unreal Engine Developer|[WerFEST Software](https://github.com/werfestsoftware)|
